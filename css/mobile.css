@@ -1,0 +1,60 @@
+@media (max-width:1199px){
+	#box-newsletter-footer h3{
+	    font-weight: bold;
+	    font-size: 23px;
+	}
+}
+
+
+
+
+@media (max-width:992px){
+}
+
+
+
+
+
+@media (max-width:768px){
+	#box-newsletter-footer {
+    	padding-top: 24px;
+    	padding-bottom: 24px;
+	}
+
+	#input-nome-news,
+	#input-email-news,
+	#btn-news{
+		margin-bottom: 4px;
+		width:100% !important;
+	}
+
+	#copyright{
+		width:100%;
+		text-align:center;
+	}
+
+	#copyright{
+		width:100%;
+		text-align:center;
+		padding-bottom:10px;
+	}
+
+	#link-rd{
+		float:none;
+		width:161px;
+		display:block;
+		margin:20px auto 0px;
+	}
+
+	#box-bottom-footer{
+	    padding-top: 0px;
+	    padding-bottom: 38px;
+	}
+}
+
+
+@media (max-width:359px){	
+}
+
+
+
